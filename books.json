@@ -1,0 +1,152 @@
+[
+  {
+    "carid": 1,
+    "status": "sold",
+    "title": "BMW M4 Competition"
+  },
+  {
+    "carid": 2,
+    "status": "available",
+    "title": "Mercedes-Benz AMG GT"
+  },
+  {
+    "carid": 3,
+    "status": "sold",
+    "title": "Audi RS6 Avant"
+  },
+  {
+    "carid": 4,
+    "status": "available",
+    "title": "Porsche 911 Carrera"
+  },
+  {
+    "carid": 5,
+    "status": "sold",
+    "title": "Tesla Model S Plaid"
+  },
+  {
+    "carid": 6,
+    "status": "available",
+    "title": "Lamborghini Huracan EVO"
+  },
+  {
+    "carid": 7,
+    "status": "sold",
+    "title": "Ferrari F8 Tributo"
+  },
+  {
+    "carid": 8,
+    "status": "available",
+    "title": "McLaren 720S"
+  },
+  {
+    "carid": 9,
+    "status": "sold",
+    "title": "Range Rover Sport HSE"
+  },
+  {
+    "carid": 10,
+    "status": "available",
+    "title": "Toyota Camry XSE"
+  },
+  {
+    "carid": 11,
+    "status": "sold",
+    "title": "Honda Civic Type R"
+  },
+  {
+    "carid": 12,
+    "status": "available",
+    "title": "Ford Mustang GT"
+  },
+  {
+    "carid": 13,
+    "status": "sold",
+    "title": "Chevrolet Corvette Stingray"
+  },
+  {
+    "carid": 14,
+    "status": "available",
+    "title": "Nissan GT-R Nismo"
+  },
+  {
+    "carid": 15,
+    "status": "sold",
+    "title": "Lexus RX 350"
+  },
+  {
+    "carid": 16,
+    "status": "available",
+    "title": "Mazda CX-5 Turbo"
+  },
+  {
+    "carid": 17,
+    "status": "sold",
+    "title": "Volkswagen Golf GTI"
+  },
+  {
+    "carid": 18,
+    "status": "available",
+    "title": "Subaru WRX STI"
+  },
+  {
+    "carid": 19,
+    "status": "sold",
+    "title": "Jeep Wrangler Rubicon"
+  },
+  {
+    "carid": 20,
+    "status": "available",
+    "title": "Dodge Charger SRT Hellcat"
+  },
+  {
+    "carid": 21,
+    "status": "sold",
+    "title": "Cadillac CT5-V Blackwing"
+  },
+  {
+    "carid": 22,
+    "status": "available",
+    "title": "Genesis G80 Sport"
+  },
+  {
+    "carid": 23,
+    "status": "sold",
+    "title": "Volvo XC90 Recharge"
+  },
+  {
+    "carid": 24,
+    "status": "available",
+    "title": "Alfa Romeo Giulia Quadrifoglio"
+  },
+  {
+    "carid": 25,
+    "status": "sold",
+    "title": "Jaguar F-Type R"
+  },
+  {
+    "carid": 26,
+    "status": "available",
+    "title": "Maserati Ghibli Trofeo"
+  },
+  {
+    "carid": 27,
+    "status": "sold",
+    "title": "Lincoln Aviator Reserve"
+  },
+  {
+    "carid": 28,
+    "status": "available",
+    "title": "Infiniti Q50 Red Sport"
+  },
+  {
+    "carid": 29,
+    "status": "sold",
+    "title": "Acura NSX Type S"
+  },
+  {
+    "carid": 30,
+    "status": "available",
+    "title": "Kia Stinger GT"
+  }
+]
