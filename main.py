@@ -10,7 +10,7 @@ cars = []
 def load_cars():
     """Load cars from JSON file into global cars list"""
     global cars
-    with open('books.json', 'r') as f:
+    with open('cars.json', 'r') as f:
         cars = json.load(f)
 
 # Initialize cars data on startup
